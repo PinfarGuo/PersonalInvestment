@@ -74,6 +74,11 @@ Results:
 
 Using the new values of 10 and 17 days we can see that the ROI has shot up to around 901.72% vs 33.9% when using the default value. Additionally, vs the Buy and Hold ROI there is nearly a 600% increase, which makes this a really good strategy to try.
 
+The following is the default vs ideal values graphed out so that you can see when and where the trades occurred more easily.
+
+![SMA Strategy Default](https://github.com/PinfarGuo/PersonalInvestment/blob/main/sma_strat_default.jpg)
+![SMA Strategy Ideal](https://github.com/PinfarGuo/PersonalInvestment/blob/main/sma_strat_ideal.jpg)
+
 ## MACD - Moving average convergence/divergence
 Investopedia -  What Is Moving Average Convergence/Divergence (MACD)?
 
@@ -144,3 +149,9 @@ Results:
 |Avg. Trade Duration  |13 days 00:00:00|
 
 After changing the values multiple time the highest ROI I found with the MACD is around 137.3%, which is much better than the default, but still worst when compared to the Buy and Hold ROI and SMA ROI while having to do more trades.
+
+Now lets see the MACD strategy graphed out vs the SMA ideal strategy.
+
+![MACD Strategy Better](https://github.com/PinfarGuo/PersonalInvestment/blob/main/MACD_strat_better.jpg)
+
+![SMA Strategy Ideal](https://github.com/PinfarGuo/PersonalInvestment/blob/main/sma_strat_ideal.jpg)
